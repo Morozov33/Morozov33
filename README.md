@@ -25,5 +25,6 @@ I'm Dmitrii Morozov, and I'm a backend engineer.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Morozov33)
 ***
 
+![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morozov33&theme=vue&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Morozov33.Morozov33)
