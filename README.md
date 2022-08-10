@@ -1,6 +1,6 @@
 #### Hi, someone!
 
-I'm Dmitrii Morozov, and I'm a backend engineer.
+I'm Dmitrii Morozov, and I'm a backend engineer from Istanbul.
 
 ***
 #### Stack:
