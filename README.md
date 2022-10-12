@@ -1,6 +1,10 @@
 #### Hi, someone!
 
 I'm Dmitrii Morozov, and I'm a backend engineer from Istanbul.
+I have a lot of experience in different areas: I worked in a big company in the metallurgy industry, I was self-employed in the rope access industry.
+Now I’m changing the profession and starting a career in the IT sphere.
+I’m interesting Data Analytic & Data Engineering, Big Data, Computer Vision and Machine Learning.
+I like to program on Python.
 
 ***
 #### Stack:
